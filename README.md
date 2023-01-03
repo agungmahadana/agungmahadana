@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/agungmahadana/agungmahadana/blob/main/readme.svg)
 
 ## 🤵 About Me
-- I’m currently studying at Informatics Udayana University.
+- I’m currently studying at Informatics Udayana University
 - I'm currently an active member of [SIC Udayana](https://github.com/SIC-Unud)
 - I’m interested in UI/UX, Front-End, Back-End, and Mobile
 

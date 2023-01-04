@@ -20,5 +20,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungmahadana&layout=compact&theme=light#gh-light-mode-only)](https://github.com/agungmahadana/github-readme-stats#gh-light-mode-only)
 
 ## 📫 Reach Me Out
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/agungmahadana_/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/agungmahadana/)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-dark.svg)](mailto:agungmahadana07@gmail.com#gh-dark-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](mailto:agungmahadana07@gmail.com#gh-light-mode-only)
+&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/agungmahadana#gh-dark-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/agungmahadana#gh-light-mode-only)
+&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-dark.svg)](https://instagram.com/agungmahadana#gh-dark-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-dark.svg)](https://instagram.com/agungmahadana#gh-light-mode-only)
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/agungmahadana)
+&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/agungmahadana) -->

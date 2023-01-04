@@ -26,5 +26,5 @@
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://linkedin.com/in/agungmahadana#gh-dark-mode-only)
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://linkedin.com/in/agungmahadana#gh-light-mode-only)
 &nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-dark.svg)](https://instagram.com/agungmahadana#gh-dark-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-light.svg)](https://instagram.com/agungmahadana#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-dark.svg)](https://instagram.com/agungmahadana_#gh-dark-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/instagram-light.svg)](https://instagram.com/agungmahadana_#gh-light-mode-only)

@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,ae,vscode,idea,androidstudio,git,github)](https://skillicons.dev)
 
 ## 🖼 My Projects
-<img src="https://github.com/agungmahadana/agungmahadana/blob/main/readme.gif" width="500px">
+[<img src="https://github.com/agungmahadana/agungmahadana/blob/main/readme.gif" width="500px">](https://www.behance.net/gallery/161352201/olshop-Design)
 
 ## 📈 Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=agungmahadana&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/agungmahadana/github-readme-stats#gh-dark-mode-only)

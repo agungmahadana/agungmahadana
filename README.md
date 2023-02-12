@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/agungmahadana/agungmahadana/blob/main/readme.svg)
+![MasterHead](https://github.com/agungmahadana/agungmahadana/blob/main/hi-there.svg)
 
 ## 🤵 About Me
 - I’m currently studying at Informatics Udayana University
@@ -10,7 +10,22 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,ae,vscode,idea,androidstudio,git,github)](https://skillicons.dev)
 
 ## 🖼 My Projects
-[<img src="https://github.com/agungmahadana/agungmahadana/blob/main/readme.gif" width="500px">](https://www.behance.net/gallery/161352201/olshop-Design)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.behance.net/gallery/161352201/olshop-Design">
+        <img src="https://github.com/agungmahadana/agungmahadana/blob/main/olshop.gif" width="253"/>
+      </a>
+      <h6>Mobile App Design</h6>
+    </td>
+    <td align="center">
+      <a href="https://agungmahadana-csv-filter-main-j3vp6p.streamlit.app">
+        <img src="https://github.com/agungmahadana/agungmahadana/blob/main/csv-filter.png" width="253"/>
+      </a>
+      <h6>CSV Filter Web App</h6>
+    </td>
+  </tr>
+</table>
 
 ## 📈 Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=agungmahadana&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/agungmahadana/github-readme-stats#gh-dark-mode-only)

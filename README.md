@@ -14,15 +14,21 @@
   <tr>
     <td align="center">
       <a href="https://www.behance.net/gallery/161352201/olshop-Design">
-        <img src="https://github.com/agungmahadana/agungmahadana/blob/main/olshop.gif" width="253"/>
+        <img src="https://github.com/agungmahadana/agungmahadana.github.io/blob/main/src/readme.gif" width="253"/>
       </a>
       <h6>Mobile App Design</h6>
     </td>
     <td align="center">
-      <a href="https://agungmahadana-csv-filter-main-j3vp6p.streamlit.app">
-        <img src="https://github.com/agungmahadana/agungmahadana/blob/main/csv-filter.png" width="253"/>
+      <a href="https://github.com/agungmahadana/CSV-Filter">
+        <img src="https://github.com/agungmahadana/CSV-Filter/blob/main/image/readme.jpeg" width="253"/>
       </a>
-      <h6>CSV Filter Web App</h6>
+      <h6>CSV Filter</h6>
+    </td>
+    <td align="center">
+      <a href="https://github.com/agungmahadana/Twitter-Sentiment-Analysis">
+        <img src="https://github.com/agungmahadana/Twitter-Sentiment-Analysis/blob/main/images/readme.jpeg" width="253"/>
+      </a>
+      <h6>Twitter Sentiment Analysis</h6>
     </td>
   </tr>
 </table>

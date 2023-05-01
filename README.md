@@ -14,7 +14,7 @@
   <tr>
     <td align="center">
       <a href="https://www.behance.net/gallery/161352201/olshop-Design">
-        <img src="https://github.com/agungmahadana/agungmahadana.github.io/blob/main/src/readme.gif" width="253"/>
+        <img src="olshop.gif" width="253"/>
       </a>
       <h6>Mobile App Design</h6>
     </td>

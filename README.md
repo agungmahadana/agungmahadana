@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,js,react,bootstrap,kotlin,mysql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,ae,vscode,idea,androidstudio,git,github)](https://skillicons.dev)
 
-## 🖼 My Projects
+## 🖼 Selected Projects
 <table>
   <tr>
     <td align="center">
